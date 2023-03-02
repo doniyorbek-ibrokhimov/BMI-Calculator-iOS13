@@ -1,27 +1,46 @@
+# BMI-Calculator-iOS13
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+BMI-Calculator-iOS13 is an iOS app that allows users to calculate their Body Mass Index (BMI) based on their height and weight. The app provides a simple and user-friendly interface for calculating and tracking BMI over time.
 
-#  BMI Calculator
+## Features
 
-## Our Goal
+BMI-Calculator-iOS13 has the following features:
 
-The goal of this tutorial is to learn more about Optionals, solidify your understanding of the MVC design pattern and to introduce the concept of Classes. We’ll compare objects created from classes with instances of Structs that we learnt about earlier. 
+- Allows users to enter their height and weight in either metric or imperial units.
+- Calculates the user's BMI based on their height and weight.
+- Provides a visual representation of the user's BMI using a color-coded scale.
+- Allows users to save and track their BMI over time.
+- Provides a simple and user-friendly interface for calculating and tracking BMI.
 
-## What you will create
+## Installation
 
-By the end of the module, you will have made a Body Mass Index calculator. Based on the user’s weight and height it will calculate their body mass and give a piece of health advice depending on whether if they have eaten too many pies or if they need to eat more pies. 
+To install BMI-Calculator-iOS13, follow these steps:
 
-## What you will learn
+1. Clone this repository to your local machine using `git clone https://github.com/LanceloT7730/BMI-Calculator-iOS13.git`
+2. Open the project in Xcode 12 or later.
+3. Build and run the app on your device or simulator.
 
-* How to create multi-screen apps with animated navigation.
-* Optional binding, optional chaining and the nil coalescing operator.
-* How to create classes and difference between classes and structs. 
-* Pass by value vs. pass by reference. 
-* Formatting Strings. 
-* Color literals.
+## Usage
 
+To use BMI-Calculator-iOS13, follow these steps:
 
+1. Open the app on your device.
+2. Enter your height and weight in either metric or imperial units.
+3. Tap the "Calculate" button to calculate your BMI.
+4. View your BMI on the color-coded scale.
+5. Save your BMI to track it over time.
+6. Tap the "History" button to view your saved BMI readings.
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+## Contributing
 
-![End Banner](Documentation/readme-end-banner.png)
+If you'd like to contribute to BMI-Calculator-iOS13, follow these steps:
+
+1. Fork this repository.
+2. Create a new branch: `git checkout -b my-new-branch`.
+3. Make your changes and commit them: `git commit -m 'Add some feature'`.
+4. Push to the branch: `git push origin my-new-branch`.
+5. Submit a pull request.
+
+## License
+
+BMI-Calculator-iOS13 is released under the MIT License. See `LICENSE` for details.
